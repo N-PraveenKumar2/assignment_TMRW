@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment_TMRW/static/css/main.f855e6bc.css",
+    "main.js": "/assignment_TMRW/static/js/main.53778ea7.js",
+    "index.html": "/assignment_TMRW/index.html",
+    "main.f855e6bc.css.map": "/assignment_TMRW/static/css/main.f855e6bc.css.map",
+    "main.53778ea7.js.map": "/assignment_TMRW/static/js/main.53778ea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.53778ea7.js"
+  ]
+}
